@@ -1,0 +1,24 @@
+label{
+	color:white;
+	font-family:virinda;
+	font-size:18px;
+	font-style:italic
+}
+.rad{
+	border-radius:15px;
+}
+select{
+	color:black;
+	height:34px;
+	width:100%;
+	border-radius:2px;
+}
+input{
+	color:black;
+}
+.inp {
+	color:white;
+	font-family:virinda;
+	font-size:18px;
+	font-style:italic
+}

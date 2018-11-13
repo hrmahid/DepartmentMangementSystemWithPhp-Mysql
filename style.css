@@ -1,0 +1,16 @@
+.new_header{ 	
+	text-align:center;
+	padding:5px;
+	margin:2px;
+	width:100%;
+}
+.new_header a{
+	text-decoration:none;
+	color:red;
+}
+.new_header a:hover{
+	color:black;
+}
+.lb label{
+	color:black;
+}

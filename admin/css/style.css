@@ -1,0 +1,46 @@
+.topbar{
+	background-color: #8DA2B9;
+	padding: 3px;
+	
+}
+.topbar h4{
+	color:#D22302;
+}
+.topbar a{
+	text-decoration:none;
+	float:right;
+	color:#D22302;
+}
+.content{
+	min-height:700px;
+	background:#DBEAF9;
+	border:0.5px solid #8DA2B9;
+}
+.dashbox{
+	background-color:#FFF;
+	width:100%;
+	margin-top:15px;
+	padding:5px;
+	text-align:center;
+	border-radius:5px;
+	min-height:100px;
+	max-height:auto;
+}
+.std_panel{
+	background-color:#fff;
+	width:100%;
+	padding:3px;
+	min-height:500px;
+	overflow: scroll;
+}
+.std_top{
+	background-color:#EDACF2;
+	border-radius:8px;
+	padding-left:10px;
+}
+.std_top p{
+	font-weight:bolder;
+}
+.std_panel select{
+	width:170px;
+}
